@@ -1,0 +1,8 @@
+10/17/2021:
+- Initial upload containing the functions:
+   - getPreset(filePath, returnType = {})
+   - writePreset(filePath, data, passExists = False, prettyFile = True, indent = 4)
+   - addNameTag(preset, setTo)
+   - incrementPath(path, appendEnd = True, addUnderscore = True)
+   - listPresets(dirPath, listNested = False, topDown = True)
+   - dirToDict(dirPath, only = (False, ''), ignores = (False, ''))
