@@ -1,4 +1,4 @@
-10/17/2021:
+PyVi V.1.0 - 10/17/2021:
 - Initial upload containing the functions:
    - getPreset(filePath, returnType = {})
    - writePreset(filePath, data, passExists = False, prettyFile = True, indent = 4)
