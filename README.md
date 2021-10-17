@@ -1,4 +1,5 @@
 # PyVi
+## V.1.0
 A python module with various functions to help with managing Vital Presets and directories
 
 # Documentation
